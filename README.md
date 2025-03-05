@@ -100,7 +100,7 @@ python tron.py
 nohup python tron.py &
 ```
 
-### Files
+## Files
 
 - `tron.py`: Main script that monitors and drains TRX from the wallet.
 
