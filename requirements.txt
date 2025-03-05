@@ -1,0 +1,3 @@
+tronpy
+requests 
+python-dotenv
